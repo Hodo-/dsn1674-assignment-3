@@ -42,11 +42,7 @@ ul {
 
 ol {
 	list-style-type: lower-roman;
-	padding: 1;
-}
-
-li {
-	fontweight: bold;
+	padding: 0em 0em 1em 2em;
 }
 
 blockquote {
@@ -94,10 +90,6 @@ figcaption {
 	font-size: 1rem;
 	font-style: italic;
 }
-
-/* .stego {
-	color: red;
-and in html, li with class="stego" } */
 
 a {
 	color: #3f2424;
