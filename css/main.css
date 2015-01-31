@@ -1,0 +1,112 @@
+html {
+	background-color: #e1e0dd;
+	/*
+		Black #000000 #000
+		White #ffffff #fff
+		Grey #333333 #cccccc
+		Red #ff0000 #f00
+		Green #00ff00 #0f0
+	*/
+}
+
+body {
+	line-height: 140%;
+}
+
+h1 {
+	color: #84817d;
+	font-weight: normal; /* normal, bold */
+	font-size: 2rem;
+	font-style: normal; /* normal, italic */
+	/* text-decoration: underline; */ /* underline, line-through */
+	/* font-family: "Comic Sans MS", sans-serif; */
+	font-family: 'Changa One', cursive;
+	line-height: 1;
+}
+
+h2 {
+	color: #84817d;
+	font-weight: normal; /* normal, bold */
+	font-size: 1.5rem;
+	font-style: normal; /* normal, italic */
+	/* text-decoration: underline; */ /* underline, line-through */
+	/* font-family: "Comic Sans MS", sans-serif; */
+	font-family: 'Changa One', cursive;
+	line-height: 1;
+}
+
+ul {
+	list-style-type: none; /* lower-roman, lower-alpha, circle, decimal, square, disc */
+	padding: 0;
+}
+
+ol {
+	list-style-type: lower-roman;
+	padding: 1;
+}
+
+li {
+	fontweight: bold;
+}
+
+blockquote {
+	font-style: italic;
+	font-size: 1.5rem;
+	font-weight: normal;
+	line-height: 1;
+	text-align: center;
+}
+
+span {
+	color: #84817e;
+	font-size: 2rem;
+}
+
+.grey {
+	color: #86847f;
+}
+
+.neil {
+	color: #86847f;
+	text-align: right;
+	font-size: 1rem;
+	font-style: italic;
+}
+
+.semi {
+	font-weight: bold;
+}
+
+.wiki {
+	list-style-type: circle;
+	padding: 0em 0em 0em 2em;
+}
+
+footer {
+	padding: 0;
+}
+
+figure {
+	text-align: center;
+}
+
+figcaption {
+	font-size: 1rem;
+	font-style: italic;
+}
+
+/* .stego {
+	color: red;
+and in html, li with class="stego" } */
+
+a {
+	color: #3f2424;
+}
+
+a:hover {
+	color: #ea2a2a;
+}
+
+dt {
+	padding: 1em 0em 0em 0em;
+}
